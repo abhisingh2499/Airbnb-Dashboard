@@ -57,8 +57,9 @@ The goal is to analyze Airbnb data to uncover trends, optimize pricing strategie
 
 ---
 
-## 🖼️ Dashboard Preview
-![Dashboard]([your-image-link.png](https://github.com/abhisingh2499/Airbnb-Dashboard/blob/main/airbnb.png))
+## 📸 Dashboard Preview
+
+![Dashboard](https://raw.githubusercontent.com/abhisingh2499/Airbnb-Dashboard/main/airbnb.png)
 
 ---
 
